@@ -1,4 +1,4 @@
-# ＊Getting-and-Cleaning-Data-
+# Getting-and-Cleaning-Data
 
 The project is for Getting-and-Cleaning-Data course on coursera.
 We have to create a R.script called run_analysis.R.
